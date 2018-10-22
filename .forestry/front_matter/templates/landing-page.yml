@@ -7,17 +7,17 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: Data Beta Theta
   config:
     required: true
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: Dedicated to learning the world
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: through the lens of data.
 - type: file
   name: banner_image
   label: Hero Image
