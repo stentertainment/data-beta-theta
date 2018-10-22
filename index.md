@@ -1,6 +1,6 @@
 ---
 title: Data Beta Theta
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/02/17/building3.jpg"
 layout: landing-page
 heading: Dedicated to learning the world
 partners:
@@ -22,8 +22,8 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
-  href: "/about"
+  text: Read blog posts
+  href: "/posts"
 show_news: true
 show_staff: false
 menu:
